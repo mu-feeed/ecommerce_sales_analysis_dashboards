@@ -58,6 +58,3 @@ The projects in this repository demonstrate how Excel-based data collection comb
 ##Author
 Mufeed K
 Data Analyst
-
-Each project folder contains structured Excel files and interactive dashboards.  
-Feel free to explore, review, and share feedback.
