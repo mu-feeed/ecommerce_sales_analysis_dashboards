@@ -32,9 +32,6 @@ Each project focuses on transforming raw e-commerce sales data into **clear, dec
   - Interactive dashboards and visual analytics  
   - KPI tracking and trend visualization  
 
-- **Presentation & Documentation**
-  - PowerPoint / PDF for business reporting and insights communication  
-
 ---
 
 ##Key Analysis Areas
